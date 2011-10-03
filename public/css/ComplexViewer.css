@@ -1,0 +1,23 @@
+a:link {
+	color: #2A418F;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #2A418F;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #E17009;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #E17009;
+	text-decoration: underline;
+}
+
+.title {
+	text-align: center;
+}

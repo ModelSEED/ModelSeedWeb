@@ -1,0 +1,94 @@
+.jstable-table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+.jstable-header {
+	border: 1px solid black;
+	background-color: #688FC5;
+	color: white;
+	font-weight: bold;
+}
+
+.jstable-header-span {
+	cursor: pointer;
+}
+
+.jstable-odd-row {
+	background-color: white;
+}
+
+.jstable-even-row {
+	background-color: #EBEBEB;
+}
+
+.jstable-cell {
+    border: 1px solid black;
+}
+
+
+.jstable-editable-span {
+	font-size: 0.8em;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* navigation styles */
+.jstable-nav-bar {
+	width: 100%;
+}
+
+.jstable-nav-middle {
+	width: 100%;
+}
+
+.jstable-nav-link {
+    font-size: 0.9em;
+}
+
+.jstable-nav-link-disabled {
+    font-size: 0.9em;
+}
+
+.jstable-nav-padding {
+    padding: 3px;
+}
+.jstable-nav-padding-medium {
+	padding: 0px 8px;
+}
+
+a.jstable-nav-link:link {
+    text-decoration: none;
+}
+
+a.jstable-nav-link:visited {
+    text-decoration: none;
+}
+
+a.jstable-nav-link:hover {
+    color: orange;
+}
+
+a.jstable-nav-link:active {
+    text-decoration: none;
+}
+
+a.jstable-nav-link-disabled:link {
+    color: grey;
+    text-decoration: none;
+}
+
+a.jstable-nav-link-disabled:visited {
+    color: grey;
+    text-decoration: none;
+}
+
+a.jstable-nav-link-disabled:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+a.jstable-nav-link-disabled:active {
+    color: grey;
+    text-decoration: none;
+}
